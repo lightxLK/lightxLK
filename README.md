@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [A Sustainable Water Management Project from UN, SDG06](https://sdgs.un.org/goals/goal6)
 
-- 🌱 I’m currently learning **Predictive Analysis, Business Process Engineering, IoT & Automation.**
+- 🌱 I’m currently learning **Predictive Analysis, Business Process ReEngineering, IoT & Automation.**
 
 - 📤 Connect w/ ME [LinkTree](https://linktr.ee/lightxlt)
 
