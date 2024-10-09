@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightxlk&label=Visits&color=0e75b6&style=flat-square" alt="lightxlk" /> </p>
 
-- 🔭 I’m currently working on [A Sustainable Water Management Project from UN, SDG06](https://sdgs.un.org/goals/goal6)
-
+- 🔭 I’m currently working on [**Arduino + ESPressif32 Projects; Web. Applications w/ .js /NodeJS**](https://projecthub.arduino.cc/?value=Nano+ESP32)
+  
 - 🌱 I’m currently learning **Predictive Analysis, Business Process ReEngineering, IoT & Automation.**
 
 - 📤 Connect w/ ME [LinkTree](https://linktr.ee/lightxlt)
 
 - 👨‍💻 Check me out on [Light's Portfolio](https://lightxlk.github.io/_/)
 
-- ✨Boost **I smile when I blink**
+- ✨Boost'd **I smile when I blink!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
