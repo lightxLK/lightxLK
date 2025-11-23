@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>"Building the future of edge AI - one face at a time 🤖"</em>
+  <em>"Building the future of edge AI - one face at a time"</em>
 </p>
 
 ## Profession
