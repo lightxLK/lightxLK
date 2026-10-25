@@ -28,6 +28,16 @@
 <br>
 <br>
 
+<!-- domains + stack + current work. static: edit SECTIONS in
+     scripts/render_stack_svg.py and re-run it by hand -->
+
+<h3><code>lightxlk@github ~ $ ./stack.sh</code></h3>
+
+<img src="./stack.svg" width="860" alt="Lokesh's domains, tech stack and current projects" />
+
+<br>
+<br>
+
 <h3><code>lightxlk@github ~ $ ./links.sh</code></h3>
 
 <p><b>Research Scholar · Associate DSML Developer · IoT Vision Systems Researcher</b></p>
